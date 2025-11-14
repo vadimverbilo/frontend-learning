@@ -4,7 +4,7 @@ This folder covers foundational non-code skills every frontend developer needs *
 
 - 🧠 How to search effectively (Google operators)
 - 💻 Working efficiently with VS Code
-- 🌐 Understanding how the web works (HTTP, DNS, client-server model)
+- 🌐 Network and browser
 
 These topics form the invisible foundation of daily development work.
 
