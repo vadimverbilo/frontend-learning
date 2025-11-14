@@ -21,7 +21,7 @@ Frontend development is more than just writing code — it’s about **crafting 
 
 1. **Visible results** — you see the outcome of your work instantly. This keeps me motivated and accelerates learning, because progress is always in front of my eyes.
 
-2. **No formal degree needed** — you don’t need a technical background, advanced math, or deep algorithm knowledge. Logical thinking, curiosity, and internet access are enough to begin.
+2. **No formal degree needed** — don’t need a technical background, advanced math, or deep algorithm knowledge. Logical thinking, curiosity, and internet access are enough to begin.
 
 3. **Abundant learning resources** — video tutorials, blogs, podcasts, communities, and open-source projects are everywhere. Help is always within reach.
 
@@ -46,3 +46,4 @@ This is a **learning-focused** project — but if you spot an error, have a sugg
 ---
 
 > “There are no peaks that cannot be conquered.”
+
