@@ -6,7 +6,8 @@ Welcome to my repository, where I’m systematically documenting my journey to b
 I’ve chosen the community-vetted [Frontend Developer Roadmap](https://roadmap.sh/frontend) as my guide. Following it step by step, I’m progressing from foundational web concepts all the way to modern tools, frameworks, and advanced practices.
 
 Each topic I complete includes:
-- ✍️ Theoretical notes  
+
+- ✍️ Theoretical notes
 - 💻 Hands-on coding exercises  
 - 📈 Regular Git commits  
 - 📂 Updated folder structure  
@@ -39,12 +40,10 @@ New directories and projects will appear as I advance.
 
 ---
 
-## 🤝 Feedback Welcome!
+## 🤝 Feedback Welcome'!'
 
 This is a **learning-focused** project — but if you spot an error, have a suggestion, or just want to say hello, feel free to open an issue or PR. Every bit of feedback helps me grow.
 
 ---
 
 > “There are no peaks that cannot be conquered.”
-
-
