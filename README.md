@@ -40,7 +40,7 @@ New directories and projects will appear as I advance.
 
 ---
 
-## 🤝 Feedback Welcome'!'
+## 🤝 Feedback Welcome!
 
 This is a **learning-focused** project — but if you spot an error, have a suggestion, or just want to say hello, feel free to open an issue or PR. Every bit of feedback helps me grow.
 
