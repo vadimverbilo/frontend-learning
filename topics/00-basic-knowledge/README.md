@@ -2,7 +2,7 @@
 
 This folder covers foundational non-code skills every frontend developer needs **before writing the first line of HTML**:
 
-- 🧠 How to search effectively (Google operators)
+- 🧠 How to effectively search for information on the Internet, or "how-to-google"
 - 💻 Working efficiently with VS Code
 - 🌐 Network and browser
 
