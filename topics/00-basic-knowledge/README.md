@@ -1,11 +1,9 @@
 # Basic Knowledge
 
-This folder covers foundational non-code skills every frontend developer needs **before writing the first line of HTML**:
+In this folder, I'll focus on skills that aren't directly related to coding, but which I believe are crucial for aspiring developers. Specifically:
 
-- 🧠 How to effectively search for information on the Internet, or "how-to-google"
-- 💻 Working efficiently with VS Code
-- 🌐 Network and browser
+- 🔍How to effectively search for information online, or, more simply, "how to Google it correctly";
+- 💻 Working with the Visual Studio Code (VS Code) code editor – settings, extensions, hotkeys, and everyday practices;
+- 🌐 Network and browser fundamentals, i.e., what happens "under the hood" when you open a page in a browser.
 
-These topics form the invisible foundation of daily development work.
-
-> 📌 Completed as part of the [Frontend Roadmap — Basic Knowledge](https://roadmap.sh/frontend#basic-knowledge).
+These topics form the invisible yet fundamental foundation for systematic and sustainable development in web development.
