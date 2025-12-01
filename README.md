@@ -1,7 +1,7 @@
-# frontend-learning 🌐
+# Front-end Learning 🌐
 
 Hi there! 👋
-Welcome to my repository, where I’m systematically documenting my journey to become a **frontend developer**.
+Welcome to my repository, where I’m systematically documenting my journey to become a **front-end developer**.
 
 I’ve chosen the community-vetted [Frontend Developer Roadmap](https://roadmap.sh/frontend) as my guide. Following it step by step, I’m progressing from foundational web concepts all the way to modern tools, frameworks, and advanced practices.
 
@@ -16,9 +16,9 @@ Each topic I complete includes:
 
 ---
 
-## Why frontend development?
+## Why Front-end Development?
 
-Frontend development is more than just writing code - it’s about **crafting user experiences**. For me, it’s also an ideal entry point into a tech career, specifically web development. Here’s why:
+Front-end development is more than just writing code - it’s about **crafting user experiences**. For me, it’s also an ideal entry point into a tech career, specifically web development. Here’s why:
 
 1. **Visible results** - you see the outcome of your work instantly. This keeps me motivated and accelerates learning, because progress is always in front of my eyes.
 
@@ -32,7 +32,7 @@ Frontend development is more than just writing code - it’s about **crafting us
 
 ---
 
-## 🗂️ Repository structure
+## 🗂️ Repository Structure
 
 All content lives under [`topics/`](./topics/), mirroring the learning path from the roadmap.
 
@@ -40,7 +40,7 @@ New directories and projects will appear as I advance.
 
 ---
 
-## 🤝 Feedback welcome
+## 🤝 Feedback Welcome
 
 This is a **learning-focused** project - but if you spot an error, have a suggestion, or just want to say hello, feel free to open an issue or PR. Every bit of feedback helps me grow.
 
