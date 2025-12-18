@@ -241,7 +241,7 @@
 
   > «Не получается получить данные с сервера» → «Fetch возвращает undefined при запросе к JSON API» (на англ. javascript fetch returns undefined json)
 
-  ---
+---
 
 3. **Используем правильные источники**  
 
